@@ -19,4 +19,3 @@ This notebook:
 ### 📊 Next Steps
 - Add XGBoost for improved predictions
 - Integrate betting line features
-- Track week-to-week model accuracy
